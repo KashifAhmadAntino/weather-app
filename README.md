@@ -10,6 +10,8 @@ Credentials:
 Phone Number: 9999999999
 OTP: 000000
 
+Important: Use real device to use firebase phone auth else there are chances that firebase could block request for sometime
+
 
 Steps to setup:
 
