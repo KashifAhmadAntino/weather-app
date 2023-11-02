@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "965208986298",
+    "project_id": "weather-assignment-app",
+    "storage_bucket": "weather-assignment-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:965208986298:android:a81175c5d557b5f64b6883",
+        "android_client_info": {
+          "package_name": "com.example.weather"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_glpSyUUeVeAI8alYP_yi-6AxaAz9n0o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
